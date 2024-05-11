@@ -1,0 +1,38 @@
+﻿@* @using FC.Blazor.Extension.Common *@
+
+<MudDrawer @bind-Open="@Drawer" Width="@Width" Elevation="1" Variant="DrawerVariant.Responsive">
+    <MudDrawerHeader>      
+            <MudImage Src="img/user.png" Alt="Fire Cloud Logo"
+                      Width="80" Height="80" Elevation="0" Class="rounded-lg" />
+    </MudDrawerHeader>
+    <MudDrawerContainer>
+        <div style="width:100%;">
+            <MudText Align="Align.Left" Style="margin-left:5px;"
+                     Class="landing-h1-radial" Typo="Typo.h5" GutterBottom="false">
+                SR Ganesh Ram               
+            </MudText>   
+        </div>
+        <MudDivider /> 
+        <NavMenu />
+       
+    </MudDrawerContainer>
+</MudDrawer>
+
+@code{
+    string Search = string.Empty;
+
+    /// <summary>
+    /// Free,Prime and Eternal - This should come from the user profile.
+    /// </summary>
+    public string UserType { get; set; } = "Prime";
+
+    [Parameter]
+    public bool Drawer { get; set; } = true;
+    [Parameter]
+    public string Width { get; set; } = "80%";
+
+    private async Task Logout()
+    {
+        
+    }
+}
