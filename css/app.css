@@ -5,6 +5,9 @@ html, body {
 h1:focus {
     outline: none;
 }
+.all-upper {
+    text-transform: capitalize;
+}
 
 a, .btn-link {
     color: #0071c1;

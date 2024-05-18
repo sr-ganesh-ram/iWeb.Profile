@@ -10,7 +10,7 @@
         function SetBaseScript() {
             console.log(window.location.hostname);
             if (window.location.hostname == "localhost") {
-                console.log ("Local Host True");
+                console.log("Local Host True");
                 document.write("<base href='/' />");
             } else {
                 document.write("<base href='/iWeb.Profile/' />");
@@ -22,6 +22,7 @@
     <meta content="" name="description">
     <meta content="" name="keywords">
 
+    <link href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" rel="stylesheet">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -46,15 +47,7 @@
 </head>
 
 <body>
-
-    <!-- ======= Hero Section ======= -->
-    <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-        <div class="hero-container" data-aos="fade-in">
-            <h1>SR Ganesh Ram</h1>
-            <p>I'm <span class="typed" data-typed-items="Solution Architect, Cloud Architect, Developer, Freelancer, Photographer, Rider"></span></p>
-        </div>
-    </section>
-    <!-- End Hero -->
+    <!--  style="background: #212121" -->
 
     <div id="app">
         <div class="loader"></div>
@@ -87,6 +80,7 @@
     <script src="assets/js/main.js"></script>
 
     <!-- Profile JavaScript ends-->
+    <script src="_content/BlazorAnimation/blazorAnimationInterop.js"></script>
 
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
