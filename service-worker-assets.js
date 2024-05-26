@@ -513,7 +513,7 @@
       "url": "img\/user.png"
     },
     {
-      "hash": "sha256-Tzna4b13bwgwxHh0wUIb4mO2N+wA\/MHUQ1244Mt+m8s=",
+      "hash": "sha256-ydWUfsHFXDwpJ+aKCht9nCjVYbWqkgrDxSRo9jSoB5c=",
       "url": "index.html"
     },
     {
@@ -793,5 +793,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "Cq+glGrE"
+  "version": "MbMT0ZFT"
 };
