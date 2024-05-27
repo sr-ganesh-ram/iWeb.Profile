@@ -9,11 +9,15 @@
       "url": "assets\/css\/style.css"
     },
     {
-      "hash": "sha256-ZuclL\/mv0sScqP0F9wi8MwpCvq8a9\/wqtpmMs9xlS9o=",
+      "hash": "sha256-f59k178w9mem7GDd4IffQaT5pDXWnMejwF6FpC4nqL0=",
       "url": "assets\/img\/apple-touch-icon.png"
     },
     {
-      "hash": "sha256-jrn\/yLNpadSoLTZjH7dYxLe3WN5PZKpbSInN9yPl3rs=",
+      "hash": "sha256-lS29Riiy9MJz8n7IEN90cI4WHmyDq2BAbc\/J9PMHjUI=",
+      "url": "assets\/img\/favicon.ico"
+    },
+    {
+      "hash": "sha256-RMr4qWbxfOEIQBXh1JcXYSCq4zJkD9Xcpuy9kcY2d48=",
       "url": "assets\/img\/favicon.png"
     },
     {
@@ -457,15 +461,19 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "hash": "sha256-lS29Riiy9MJz8n7IEN90cI4WHmyDq2BAbc\/J9PMHjUI=",
+      "url": "favicon.ico"
+    },
+    {
+      "hash": "sha256-RMr4qWbxfOEIQBXh1JcXYSCq4zJkD9Xcpuy9kcY2d48=",
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-f59k178w9mem7GDd4IffQaT5pDXWnMejwF6FpC4nqL0=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-l4fPlCwM333KbRk70xhe3neSjbFeMZXzFfJwHgml1U0=",
       "url": "icon-512.png"
     },
     {
@@ -517,11 +525,15 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-BUS4Q87LdcMzBBGD5S2Oa6xaGA4NHstBD3Rpq\/H6cYI=",
+      "hash": "sha256-9wCwBXTD\/TMZUkgtpI+OJx3QcrAkadt7Act4VeMK3kg=",
+      "url": "json-data\/profile-details.json"
+    },
+    {
+      "hash": "sha256-m5k4r2ziSy1Up4LrHexRfPClET2h6fGM1xbTWcRgDP4=",
       "url": "json-data\/profile-menu.json"
     },
     {
-      "hash": "sha256-c+7e9nVcMUOrtyPOxMh2Lc3pjQp2XpBNFMsoMHkcjgs=",
+      "hash": "sha256-Ezr55YJ\/s4hLnVXS6CxA6LiROqRnp6+Fvz+PAIRy\/ZQ=",
       "url": "json-data\/skills.json"
     },
     {
@@ -553,15 +565,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-jHp+901OCSaoZSXvjiqp4kVdJbcj10nxWHRvnN5TwtI=",
+      "hash": "sha256-ShHoyZrw3qoikACbJp7vCIUvOd\/7qrEAqzf+zN9DWa0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-K56eynq1zCEPrRYXSCo8FtLw3bp1q+VEI2IsXAmYDYY=",
+      "hash": "sha256-qI7sziCoixSdEvRinbvjGdSObhkY0GY8Uoo1RfgD62I=",
       "url": "_framework\/dotnet.native.8.0.4.8v2jp7xach.js"
     },
     {
-      "hash": "sha256-CHSlgmgewCWaWby8G\/HM4wm5AaKXHJKiMtt5huVuHJc=",
+      "hash": "sha256-lrH0I60wGy+Dgou2UQ07EV0dwMbzwTCvGk55Zj1N3uQ=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
@@ -645,7 +657,7 @@
       "url": "_framework\/MudBlazor.ThemeManager.wasm"
     },
     {
-      "hash": "sha256-\/RRRZ6fzsbDUqNiAmpNRdhRrWNsfuYWAsL7QMmozSlo=",
+      "hash": "sha256-vT81cf1qFfThTr35rAPu8aYDEevBTfSwz17MpJtYJis=",
       "url": "_framework\/MudBlazor.wasm"
     },
     {
@@ -669,7 +681,7 @@
       "url": "_framework\/System.Collections.Specialized.wasm"
     },
     {
-      "hash": "sha256-yzOINNNdUXLs7jPfQ+iS+We+O\/HpOqECCPtpsoN0oB0=",
+      "hash": "sha256-09ZUe0dPhmglHh\/Q+UbRKNZB\/VcKuOFlVNKlEycApGk=",
       "url": "_framework\/System.Collections.wasm"
     },
     {
@@ -725,7 +737,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-U0VEzgu2iGbzUoGDw8U9ReNwW6HO\/Ud9IXK9bmHriY8=",
+      "hash": "sha256-1mHUTpWaZuu\/HB38d35lv1wJl9n1Q6Muqsy7ufufmdI=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -741,7 +753,7 @@
       "url": "_framework\/System.Runtime.wasm"
     },
     {
-      "hash": "sha256-CHn2PKBcmlVcHgHUY8LVEABcn6y6QtaD8+Jr5mvSCKA=",
+      "hash": "sha256-HZ5PQeYmxVQFvuP7xgbdAOo1L7NBedG5NGXWWc4mtgs=",
       "url": "_framework\/System.Text.Encodings.Web.wasm"
     },
     {
@@ -761,7 +773,7 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-sjfbid3F5bxVBCFOYMg84OG+e0oJO6KvR6y5Ii9nqN8=",
+      "hash": "sha256-VkE34CJfsp1fWpkuRE4rrV9Z\/lBEmaL8FmOjfrplFO4=",
       "url": "_framework\/Web.Profile.wasm"
     },
     {
@@ -793,5 +805,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "MbMT0ZFT"
+  "version": "dBYISmxc"
 };
