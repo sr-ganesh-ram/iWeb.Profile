@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Ganesh Ram",
+  "FullName": "SR Ganesh Ram",
+  "Description": "Some short description",
+  "ShortName": "SRG",
+  "SocialNetworks": {
+    "Twitter": "https://twitter.com/SRGaneshRam",
+    "Facebook": "https://www.facebook.com/sr.ganeshram",
+    "LinkedIn": "https://www.linkedin.com/in/ganesh-ram-ravi/",
+    "Gmail": "mailto:sr.ganeshram@gmail.com",
+    "Hotmail": "mailto:sr.ganeshram@hotmail.com"
+  },
+  "Version": "v1.0.5 ∞",
+  "CopyRight":"2024"
+}
